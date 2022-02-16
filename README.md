@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/sergi-salido-cubero/?locale=en_US)
+
 <!--
 **SergiSalidoCubero/SergiSalidoCubero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
