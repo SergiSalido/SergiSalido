@@ -1,8 +1,8 @@
-### Hi, I'm Sergi
+### Hi, I'm Sergi 👋
 
-📊 I am working as a Senior BI Analyst at ClearPeaks (Consultant at Schneider Electric).  
-⚡ I am passionate about Artificial Intelligence and Data Science.  
-🎓 I am studying for a MSc in Artificial Intelligence and Computer Security.  
+📊 I'm working as a Senior BI Analyst at ClearPeaks (Consultant at Schneider Electric).  
+⚡ I'm passionate about Artificial Intelligence and Data Science.  
+🎓 I'm studying for a MSc in Artificial Intelligence and Computer Security.  
 👨‍💻 I hold a BSc in Computer Science and Engineering.
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="25em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/sergi-salido-cubero/?locale=en_US)
@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
