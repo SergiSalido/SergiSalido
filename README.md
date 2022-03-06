@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sergi
 
 📊 I am working as a Senior BI Analyst at ClearPeaks (Consultant at Schneider Electric).  
 ⚡ I am passionate about Artificial Intelligence and Data Science.  
