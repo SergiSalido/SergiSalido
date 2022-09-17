@@ -1,8 +1,8 @@
 ### Hi, I'm Sergi 👋
 
-📊 I'm working as a Senior BI Analyst at ClearPeaks (Consultant at Schneider Electric).  
+📊 I work as a Data Scientist at SDG Group.  
 ⚡ I'm passionate about Artificial Intelligence and Data Science.  
-🎓 I'm studying for a MSc in Artificial Intelligence and Computer Security.  
+🎓 I study a MSc in Artificial Intelligence and Computer Security.  
 👨‍💻 I hold a BSc in Computer Science and Engineering.
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="25em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/sergi-salido-cubero/?locale=en_US)
