@@ -1,9 +1,10 @@
 ### Hi, I'm Sergi 👋
 
-📊 I work as a Data Scientist at SDG Group.  
-⚡ I'm passionate about Artificial Intelligence and Data Science.  
-🎓 I study a MSc in Artificial Intelligence and Computer Security.  
-👨‍💻 I hold a BSc in Computer Science and Engineering.
+👨‍💼 Senior AI Engineer Consultant at SDG Group's AI International Practice.  
+❤️ Passionate about AI, data science, and cutting-edge technologies like generative AI, agentive AI, and physical AI/robotics.  
+🤖 Dedicated to designing and implementing innovative solutions that harness the power of these transformative advancements.  
+🎓 Pursued a Master's in Artificial Intelligence and Cybersecurity.  
+👨‍💻 Holder of a Bachelor's in Computer Science and Engineering.  
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="25em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/sergi-salido-cubero/?locale=en_US)
 
