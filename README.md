@@ -1,7 +1,7 @@
 ### Hi, I'm Sergi 👋
 
 👨‍💼 Senior AI Engineer Consultant at SDG Group's AI International Practice.  
-❤️ Passionate about AI, data science, and cutting-edge technologies like generative AI, agentive AI, and physical AI/robotics.  
+❤️ Passionate about AI, data science, and cutting-edge technologies like generative AI, agentic AI, and physical AI/robotics.  
 🤖 Dedicated to designing and implementing innovative solutions that harness the power of these transformative advancements.  
 🎓 Pursued a Master's in Artificial Intelligence and Cybersecurity.  
 👨‍💻 Holder of a Bachelor's in Computer Science and Engineering.  
